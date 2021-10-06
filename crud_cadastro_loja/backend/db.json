@@ -1,0 +1,29 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Caneta BIC Preta",
+      "price": 5.89
+    },
+    {
+      "id": 2,
+      "name": "Notebook Mac Pro",
+      "price": 12000.89
+    },
+    {
+      "id": 3,
+      "name": "Sansung S20+ Ultra",
+      "price": "5230.89"
+    },
+    {
+      "name": "Teste de Exclusão",
+      "price": "125.00",
+      "id": 4
+    },
+    {
+      "name": "Teste de Exclusão 2",
+      "price": "25.99",
+      "id": 5
+    }
+  ]
+}
